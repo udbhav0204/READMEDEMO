@@ -3,12 +3,11 @@ This is a classroom demo on how to create good README.md files
 
 
 #  This is second line
+
 A. *italic* 
 B. **bold**
 C. ***both***
   
-
-
 
 ## Instalation
 
