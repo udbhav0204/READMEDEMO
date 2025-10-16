@@ -16,10 +16,3 @@ python main.py --input data.txt --output result.txt
 
 git pull origin main
 
-✅ Process completed successfully
-📄 Output saved to result.txt
-
-
----
-
-Would you like me to make this specifically for **Python**, **Node.js**, or keep it general like this?
